@@ -1,0 +1,4 @@
+period,value,unit,data_status
+period_1,120,thousand_rub,synthetic
+period_2,150,thousand_rub,synthetic
+period_3,180,thousand_rub,synthetic
